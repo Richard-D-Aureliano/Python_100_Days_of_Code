@@ -10,3 +10,4 @@ I'm gonna try to do a symple review everyday!
 - 004 - Start to work with lists and the Random module;
 - 005 - Start to work with loops in lists and in range;
 - 006 - Utilising the Reeborg's World tool, managed to use more loops and learn about the use of the While loops;
+- 007 - Build a Hangman game using everything that i have learned until now;
