@@ -11,3 +11,5 @@ I'm gonna try to do a symple review everyday!
 - 005 - Start to work with loops in lists and in range;
 - 006 - Utilising the Reeborg's World tool, managed to use more loops and learn about the use of the While loops;
 - 007 - Build a Hangman game using everything that i have learned until now;
+- 008 - Create an app that's use's the Caesar's Cypher to encode and decode messages, start to create new functions;
+- 009 - Build an app similar to an secret audition, start to use libraries and nested lists and libraries;
